@@ -1,0 +1,10 @@
+[submodule "simulation-1/simulation-submodule-1"]
+    path = simulation-1/simulation-submodule-1
+    url = https://github.com/MinaKaramTWV/simulation-submodule-1.git
+    branch = main
+
+[submodule "simulation-2/simulation-submodule-2"]
+    path = simulation-2/simulation-submodule-2
+    url = https://github.com/MinaKaramTWV/simulation-submodule-2.git
+    branch = main
+
